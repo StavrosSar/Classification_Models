@@ -1,5 +1,3 @@
-**README**
-
 **Title:** Classification of Clients using Python
 
 **Description:** This project aims to classify clients based on their characteristics and predict the likelihood of default payment. The project uses various machine learning algorithms and evaluates their performance using metrics such as accuracy, precision, recall, and F1-score.
