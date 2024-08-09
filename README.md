@@ -34,7 +34,3 @@ This project is a demonstration of machine learning classification using Python.
 * matplotlib
 * seaborn
 * numpy
-
-**License:**
-
-This project is licensed under the MIT License.
